@@ -10,5 +10,5 @@
 * Essa API está em sua fase inicial, isso quer dizer que possa ser que haja algum erro de lógica, erros de uso, entre outros; podendo ser modificada a qualquer momento.
 
 ## Minhas Redes Sociais:
-* [**Linkedin**](https://www.linkedin.com/in/fernando-henrique-411129293/)
+* [**Linkedin**](www.linkedin.com/in/nandoodev)
 * [**GitHub**](https://github.com/nandoodev)
